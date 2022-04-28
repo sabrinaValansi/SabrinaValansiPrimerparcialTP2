@@ -1,0 +1,22 @@
+{
+  "type":"module",
+  "name": "sabrinavalansiprimerparcialtp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main/index.js",
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrinaValansi/SabrinaValansiPrimerparcialTP2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrinaValansi/SabrinaValansiPrimerparcialTP2/issues"
+  },
+  "homepage": "https://github.com/sabrinaValansi/SabrinaValansiPrimerparcialTP2#readme"
+}
